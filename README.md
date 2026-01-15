@@ -9,5 +9,5 @@ Este repositorio se utiliza para practicar trabajo colaborativo con Git y GitHub
 
 ## Autores
 - Adrian Malvar 
-- Juan Francisco
+- Juan 
 
